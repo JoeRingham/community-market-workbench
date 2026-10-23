@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Go
+/api/bin/
+*.test
+*.out
+
+# Node / web
+node_modules/
+dist/
+.next/
+build/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Local scratch
+/scratch/
+/tmp/
+
+# Fixtures: only the synthetic (fabricated) files are tracked. A real supplier
+# PDF may be dropped in these directories for local testing against real data
+# (see pricelistparser/tests/fixtures/README.md) - it must never be committed.
+pricelistparser/tests/fixtures/**
+!pricelistparser/tests/fixtures/
+!pricelistparser/tests/fixtures/**/
+!pricelistparser/tests/fixtures/**/README.md
+!pricelistparser/tests/fixtures/**/generate_synthetic.py
+!pricelistparser/tests/fixtures/**/synthetic.pdf
+!pricelistparser/tests/fixtures/**/synthetic.expected.json

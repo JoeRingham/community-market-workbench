@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "supplier": "van_whole",
+    "parser_key": "van_whole",
+    "parser_version": "0.1.0",
+    "contract_version": "1",
+    "currency": "CAD",
+    "effective_from": "2026-08-24",
+    "effective_to": "2026-08-26",
+    "issued_date": "2026-08-26",
+    "page_count": 3,
+    "data_pages": [
+      2,
+      3
+    ],
+    "sha256": "005fe19093960d46497edb40f5e3672c94f6e04327a571658aac9a3b7e5f7e9b",
+    "source_filename": "synthetic.pdf",
+    "row_count": 11
+  },
+  "rows": [
+    {
+      "page": 2,
+      "column": "left",
+      "section": "ORGANIC - FRUITS",
+      "description": "AVOCADOS ORGANIC MEX 20S",
+      "price_raw": "31.75",
+      "price": 31.75,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        74.0,
+        205.0,
+        302.2,
+        215.0
+      ],
+      "source_line": "AVOCADOS ORGANIC MEX 20S 31.75"
+    },
+    {
+      "page": 2,
+      "column": "left",
+      "section": "ORGANIC - FRUITS",
+      "description": "BANANAS ORGANIC ECU 40 LBS",
+      "price_raw": "53.75",
+      "price": 53.75,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        74.0,
+        225.0,
+        302.2,
+        235.0
+      ],
+      "source_line": "BANANAS ORGANIC ECU 40 LBS 53.75"
+    },
+    {
+      "page": 2,
+      "column": "left",
+      "section": "ORGANIC - VEGETABLES",
+      "description": "CARROTS ORGANIC BC 25 LBS",
+      "price_raw": "23.25",
+      "price": 23.25,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        74.0,
+        275.0,
+        302.2,
+        285.0
+      ],
+      "source_line": "CARROTS ORGANIC BC 25 LBS 23.25"
+    },
+    {
+      "page": 2,
+      "column": "right",
+      "section": "ORGANIC - HERB",
+      "description": "BASIL ORGANIC CALIF 12S",
+      "price_raw": "42.75",
+      "price": 42.75,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        320.0,
+        205.0,
+        590.4,
+        215.0
+      ],
+      "source_line": "BASIL ORGANIC CALIF 12S 42.75"
+    },
+    {
+      "page": 3,
+      "column": "left",
+      "section": "FRUITS",
+      "description": "MANGOS PREMIUM MEX 10S",
+      "price_raw": "38.50",
+      "price": 38.5,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        74.0,
+        65.0,
+        302.2,
+        75.0
+      ],
+      "source_line": "MANGOS PREMIUM MEX 10S 38.50"
+    },
+    {
+      "page": 3,
+      "column": "left",
+      "section": "FRUITS",
+      "description": "GINGER ROOT PERU PER LB",
+      "price_raw": "2.60",
+      "price": 2.6,
+      "unavailable": false,
+      "price_basis": "lb",
+      "supplier_sku": null,
+      "bbox": [
+        74.0,
+        90.0,
+        302.2,
+        100.0
+      ],
+      "source_line": "GINGER ROOT PERU PER LB 2.60"
+    },
+    {
+      "page": 3,
+      "column": "left",
+      "section": "FRUITS",
+      "description": "TURMERIC ROOT ORGANIC 12X227G",
+      "price_raw": "N/A",
+      "price": null,
+      "unavailable": true,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        74.0,
+        115.0,
+        302.2,
+        125.0
+      ],
+      "source_line": "TURMERIC ROOT ORGANIC 12X227G N/A"
+    },
+    {
+      "page": 3,
+      "column": "left",
+      "section": "MUSHROOMS",
+      "description": "MUSHROOMS WHITE NO1 BC (48213)",
+      "price_raw": "24.50",
+      "price": 24.5,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": "48213",
+      "bbox": [
+        74.0,
+        165.0,
+        302.2,
+        175.0
+      ],
+      "source_line": "MUSHROOMS WHITE NO1 BC (48213) 24.50"
+    },
+    {
+      "page": 3,
+      "column": "left",
+      "section": "MUSHROOMS",
+      "description": "SALAD MIX BABY GREENS (E.B.) 5510097",
+      "price_raw": "29.75",
+      "price": 29.75,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": "5510097",
+      "bbox": [
+        74.0,
+        190.0,
+        302.2,
+        205.0
+      ],
+      "source_line": "SALAD MIX BABY GREENS (E.B.) 5510097 29.75"
+    },
+    {
+      "page": 3,
+      "column": "right",
+      "section": "VEGETABLES",
+      "description": "PEPPERS RED BC 11LBS",
+      "price_raw": "34.00",
+      "price": 34.0,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        320.0,
+        65.0,
+        590.4,
+        75.0
+      ],
+      "source_line": "PEPPERS RED BC 11LBS 34.00"
+    },
+    {
+      "page": 3,
+      "column": "right",
+      "section": "VEGETABLES",
+      "description": "SQUASH BUTTERNUT CALIF 40LBS",
+      "price_raw": "28.50",
+      "price": 28.5,
+      "unavailable": false,
+      "price_basis": "case",
+      "supplier_sku": null,
+      "bbox": [
+        320.0,
+        90.0,
+        590.4,
+        100.0
+      ],
+      "source_line": "SQUASH BUTTERNUT CALIF 40LBS 28.50"
+    }
+  ],
+  "warnings": [
+    {
+      "code": "unknown_section",
+      "detail": "MUSHROOMS",
+      "page": null
+    }
+  ]
+}
